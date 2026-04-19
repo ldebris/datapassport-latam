@@ -83,3 +83,21 @@ This project builds on prior academic work developed in the Master’s program i
 
 ```bash
 pip install -r requirements.txt
+
+## Run
+
+For notebooks:
+
+```bash
+jupyter notebook
+
+Future MVP app:
+
+streamlit run app/app.py
+Open-Source Commitment
+
+The project is being developed as an open, documented, and reproducible resource. Core verification functionality, indicator definitions, and Data360 integration methodology will remain publicly accessible.
+
+License
+
+To be defined.
